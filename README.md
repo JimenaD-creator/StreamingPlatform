@@ -1,1 +1,1 @@
-"# StreamingPlatform" 
+StreamingPlatform
