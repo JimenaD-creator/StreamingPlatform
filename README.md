@@ -1,1 +1,1 @@
-StreamingPlatform
+Streaming Platform
