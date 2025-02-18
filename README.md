@@ -1,4 +1,4 @@
-Streaming Platform
+## Streaming Platform
 
 This project is a simulation of a streaming platform that allows users to browse movies and series, view their details, filter by rating, and rate the available content. It is developed in C++ and uses object-oriented programming concepts such as inheritance and polymorphism.
 
